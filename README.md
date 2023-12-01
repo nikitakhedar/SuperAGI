@@ -1,4 +1,4 @@
-#SuperAGI
+# SuperAGI
 # GPT-2 Implementation in PyTorch
 
 This repository contains a PyTorch implementation of a simplified GPT-2 model. The GPT-2 model, originally developed by OpenAI, is a transformer-based language model known for its ability to generate human-like text.
